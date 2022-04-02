@@ -7,6 +7,6 @@ public class TC001 {
         System.out.println("Hello world");
 
         // negative testing
-
+        // positive testing
     }
 }
